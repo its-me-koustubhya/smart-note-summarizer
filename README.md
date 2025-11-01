@@ -123,7 +123,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Your Name**
 
 - GitHub: [@its-me-koustubhya](https://github.com/its-me-koustubhya)
-- Portfolio: [Smart-Note-Summarizer.com](https://your-website.com)
+- Portfolio: [Smart-Note-Summarizer.com](https://smart-note-summarizer.streamlit.app/)
 
 ## 🙏 Acknowledgments
 
